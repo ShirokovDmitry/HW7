@@ -1,0 +1,15 @@
+E:\GitLibrary\HomeWorks\HW7\Z2\bin\Debug\net6.0\Z2.exe
+E:\GitLibrary\HomeWorks\HW7\Z2\bin\Debug\net6.0\Z2.deps.json
+E:\GitLibrary\HomeWorks\HW7\Z2\bin\Debug\net6.0\Z2.runtimeconfig.json
+E:\GitLibrary\HomeWorks\HW7\Z2\bin\Debug\net6.0\Z2.dll
+E:\GitLibrary\HomeWorks\HW7\Z2\bin\Debug\net6.0\Z2.pdb
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.csproj.AssemblyReference.cache
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.AssemblyInfoInputs.cache
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.AssemblyInfo.cs
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.csproj.CoreCompileInputs.cache
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.dll
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\refint\Z2.dll
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.pdb
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\Z2.genruntimeconfig.cache
+E:\GitLibrary\HomeWorks\HW7\Z2\obj\Debug\net6.0\ref\Z2.dll
